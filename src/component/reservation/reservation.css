@@ -1,0 +1,9 @@
+.reservation {
+    border: 1px solid #e6e4e4;
+    color: black;
+    text-align: center;
+    padding: 22px;
+    margin: 4px;
+    box-shadow: 2px 2px 0px 0px #e6e4e4;
+    border-radius: 4px;
+}
