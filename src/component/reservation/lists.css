@@ -1,0 +1,25 @@
+.lists {
+    color: red;
+    width: 1000px;
+    margin: 2px 2px 2px 2px;
+    padding: 10px 1px 1px 60px;
+    border: 1px solid lightseagreen;
+}
+.lists:hover {
+    background-color: #88dcad;
+}
+.train-name {
+    font-size: 18px;
+    font-weight: bold;
+    color: #6d5c5c;
+}
+.train-no {
+    font-size: 16px;
+    font-weight: normal;
+    color: #210202;
+}
+.train-date {
+    font-size: 12px;
+    font-weight: normal;
+    color: #bdbdbd;
+}
